@@ -1,0 +1,15 @@
+{
+  "name": "parkside-paradise-virtual-walk-app",
+  "version": "1.0.0",
+  "description": "Take an epic virtual walk in astounding National Parks across the US",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kriston Burnstein",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
